@@ -1,0 +1,20 @@
+{
+  "name": "astrologicus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/johnwsouth/astrologicus.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/johnwsouth/astrologicus/issues"
+  },
+  "homepage": "https://github.com/johnwsouth/astrologicus#readme"
+}
