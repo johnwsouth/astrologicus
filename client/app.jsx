@@ -1,4 +1,5 @@
 import React from 'react';
+import AstroSignSpinner from './containers/astro-sign-spinner';
 
 export default class App extends React.Component {
   constructor(props) {
@@ -10,6 +11,6 @@ export default class App extends React.Component {
   }
 
   render() {
-    return (<div>Hello World</div>);
+    return (<AstroSignSpinner />);
   }
 }

@@ -26,14 +26,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Learning-Fuze/c619_adme.git"
+    "url": "git+https://github.com/johnwsouth/astrologicus.git"
   },
-  "author": "Shane",
+  "author": "John",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Learning-Fuze/c619_adme/issues"
+    "url": "https://github.com/johnwsouth/astrologicus/issues"
   },
-  "homepage": "https://github.com/Learning-Fuze/c619_adme#readme",
+  "homepage": "https://github.com/johnwsouth/astrologicus#readme",
   "devDependencies": {
     "nodemon": "^1.19.2",
     "@babel/core": "7.4.4",
